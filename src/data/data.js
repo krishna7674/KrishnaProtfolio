@@ -4,6 +4,7 @@ import Yourtube from '../assets/projects/Yourtube.png'
 import Flashcard from '../assets/projects/Flashcard.png'
 import ToursTravels from '../assets/projects/ToursTravel.png'
 import Weathers from '../assets/projects/weather.png'
+import  Animation from '../assets/projects/animation.png'
 
 export const data=[
 
@@ -19,10 +20,10 @@ export const data=[
     
     {
         id:2,
-        name:"React JS Application",
-        image:Flashcard,
-        github:"https://github.com/krishna7674/flashcard",
-        live:"https://flashcard-generator-sable.vercel.app/",
+        name:"React JS Animation Application",
+        image:Animation,
+        github:"https://github.com/krishna7674/FirstAnimation",
+        live:"https://boisterous-biscuit-c0450b.netlify.app/",
     },
     
 
@@ -42,7 +43,13 @@ export const data=[
         live:"https://get-youtube-subscribers-three.vercel.app/",
     },
   
-
+    {
+        id:5,
+        name:"React JS Application",
+        image:Flashcard,
+        github:"https://github.com/krishna7674/flashcard",
+        live:"https://flashcard-generator-sable.vercel.app/",
+    },
 
 
 
